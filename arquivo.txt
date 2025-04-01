@@ -1,54 +1,50 @@
-
-
-
-| 1  | Smartphone               | 2.499,90   | 15         |
-| 2  | Notebook Gamer           | 5.899,00   | 8          |
-| 3  | Fone Bluetooth           | 199,90     | 30         |
-| 4  | Smartwatch               | 899,00     | 12         |
-| 5  | Teclado Mecânico         | 349,90     | 20         |
-| 6  | Mouse Gamer              | 149,90     | 25         |
-| 7  | Monitor 27" Full HD      | 1.299,00   | 10         |
-| 8  | Cadeira Gamer            | 1.599,00   | 7          |
-| 9  | Mochila para Notebook    | 189,90     | 18         |
-| 10 | Caixa de Som Bluetooth   | 249,90     | 22         |
-| 11 | TV 50" 4K                | 2.999,00   | 6          |
-| 12 | Microfone Condensador    | 399,90     | 15         |
-| 13 | Webcam Full HD           | 299,90     | 14         |
-| 14 | Impressora Multifuncional| 799,90     | 10         |
-| 15 | HD Externo 1TB           | 450,00     | 12         |
-| 16 | SSD NVMe 1TB             | 599,90     | 10         |
-| 17 | Placa de Vídeo RTX 4060  | 3.499,00   | 5          |
-| 18 | Processador Ryzen 7      | 1.999,90   | 8          |
-| 19 | Memória RAM 16GB         | 350,00     | 15         |
-| 20 | Fonte 750W Modular       | 550,00     | 9          |
-| 21 | Placa-mãe B450           | 699,90     | 10         |
-| 22 | Câmera de Segurança Wi-Fi| 299,90     | 18         |
-| 23 | Aspirador de Pó Robô     | 1.299,00   | 7          |
-| 24 | Air Fryer 5L             | 499,90     | 15         |
-| 25 | Fogão 4 Bocas            | 1.299,00   | 6          |
-| 26 | Geladeira Frost Free     | 3.999,00   | 4          |
-| 27 | Máquina de Lavar 12kg    | 2.599,00   | 5          |
-| 28 | Liquidificador 1200W     | 199,90     | 20         |
-| 29 | Jogo de Panelas 5 peças  | 349,90     | 12         |
-| 30 | Cafeteira Expresso       | 699,90     | 8          |
-| 31 | Ventilador de Mesa 40cm  | 189,90     | 14         |
-| 32 | Ferro de Passar a Vapor  | 129,90     | 16         |
-| 33 | Roteador Wi-Fi 6         | 599,90     | 10         |
-| 34 | Switch de Rede 8 portas  | 249,90     | 12         |
-| 35 | Carregador Turbo 65W     | 199,90     | 18         |
-| 36 | Mousepad Gamer RGB       | 99,90      | 25         |
-| 37 | Relógio de Parede        | 79,90      | 30         |
-| 38 | Cortina Blackout 2m x 2m | 159,90     | 10         |
-| 39 | Toalha de Banho 2 peças  | 89,90      | 20         |
-| 40 | Travesseiro NASA         | 129,90     | 15         |
-| 41 | Edredom Queen Size       | 299,90     | 8          |
-| 42 | Sofá Retrátil 3 Lugares  | 2.499,00   | 3          |
-| 43 | Rack para TV 180cm       | 799,90     | 6          |
-| 44 | Guarda-Roupa 6 portas    | 2.199,00   | 4          |
-| 45 | Cama Box Queen           | 1.599,00   | 5          |
-| 46 | Colchão Ortobom Casal    | 1.199,00   | 7          |
-| 47 | Mesa de Escritório       | 499,90     | 9          |
-| 48 | Cadeira de Escritório    | 699,90     | 8          |
-| 49 | Estante de Livros        | 399,90     | 12         |
-| 50 | Luminária de Mesa LED    | 149,90     | 18         |
+Smartphone,2.499,90,15        
+Notebook Gamer,5.899,00,8          
+Fone Bluetooth,199,90,30         
+Smartwatch,899,00,12         
+Teclado Mecânico,349,90,20         
+Mouse Gamer,149,90,25         
+Monitor 27" Full HD,1.299,00,10         
+Cadeira Gamer,1.599,00,7          
+Mochila para Notebook,189,90,18         
+Caixa de Som Bluetooth,249,90,22         
+TV 50" 4K,2.999,00,6          
+Microfone Condensador,399,90,15         
+Webcam Full HD,299,90,14         
+Impressora Multifuncional,799,90,10         
+HD Externo 1TB,450,00,12         
+SSD NVMe 1TB ,599,90,10         
+Placa de Vídeo RTX 4060,3.499,00,5          
+Processador Ryzen 7,1.999,90,8          
+Memória RAM 16GB,350,00,15         
+Fonte 750W Modular,550,00,9          
+Placa-mãe B450,699,90,10         
+Câmera de Segurança Wi-Fi,299,90,18         
+Aspirador de Pó Robô,1.299,00,7          
+Air Fryer 5L,499,90, 15         
+Fogão 4 Bocas,1.299,00,6          
+Geladeira Frost Free,3.999,00,4          
+Máquina de Lavar 12kg,2.599,00,5          
+Liquidificador 1200W,199,90,20         
+Jogo de Panelas 5 peças,349,90,12         
+Cafeteira Expresso,699,90,8          
+Ventilador de Mesa 40cm,189,90,14         
+Ferro de Passar a Vapor,129,90,16         
+Roteador Wi-Fi 6,599,90,10         
+Switch de Rede 8 portas,249,90,12         
+Carregador Turbo 65W,199,90,18         
+Mousepad Gamer RGB,99,90,25         
+Relógio de Parede,79,90,30         
+Cortina Blackout 2m x 2m,159,90,10         
+Toalha de Banho 2 peças,19,90,20         
+Travesseiro NASA,129,90,15         
+Edredom Queen Size,299,90,8          
+Sofá Retrátil 3 Lugares,2.499,00,3          
+Guarda-Roupa 6 portas,2.199,00,4          
+Cama Box Queen,1.599,00,5          
+Colchão Ortobom Casal,1.199,00,7          
+Mesa de Escritório,499,90,9          
+Cadeira de Escritório,699,90,8          
+stante de Livros,399,90,12         
+Luminária de Mesa LED,149,90,18         
 
